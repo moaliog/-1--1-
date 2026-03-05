@@ -1,2 +1,6 @@
-# -1--1-
+# Ensomatwmena_Systhmata_Tmima1_Omada1
 Αυτόνομο όχημα Τύπου Line Follower
+Για την δημιουργία του LineFollover θα χρειαστούμε:
+1) Μικροελεγκτής RP2040 (Raspberry Pi PicoW 2022)
+2) Αισθητήρες
+3) BrashBoard
